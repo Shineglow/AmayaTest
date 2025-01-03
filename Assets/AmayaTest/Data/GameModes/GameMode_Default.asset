@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 084d29c7d91d484daacbe8f791b1048c, type: 3}
+  m_Name: GameMode_Default
+  m_EditorClassIdentifier: 
+  <ItemShakeParameters>k__BackingField: {fileID: 11400000, guid: c50c92300b6f81544923c76dfc1c4707, type: 2}
+  <ItemsBackgroundColorProperties>k__BackingField:
+    Saturation: 0.1
+    Value: 0.9
+  levelsQueue:
+  - <Level>k__BackingField: {fileID: 11400000, guid: 71d54caf5cb7e354fb2bcebc0f46e3aa, type: 2}
+    <DataSet>k__BackingField: {fileID: 11400000, guid: 1c091c9e59e9dfd498179e5a2a6be7b2, type: 2}
+  - <Level>k__BackingField: {fileID: 11400000, guid: 8cd1adbea6f87b54aad8ec912d36a540, type: 2}
+    <DataSet>k__BackingField: {fileID: 11400000, guid: d9ea6dceefa396a4f9f128afa4fdba88, type: 2}
+  - <Level>k__BackingField: {fileID: 11400000, guid: 7dddeab9626398d4e8f3a8aa9c9b2651, type: 2}
+    <DataSet>k__BackingField: {fileID: 11400000, guid: 1c091c9e59e9dfd498179e5a2a6be7b2, type: 2}
